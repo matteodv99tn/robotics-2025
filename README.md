@@ -4,4 +4,6 @@ Hi everyone, this will host my nice project
 
 ## Contributors
 
-Matteo Dalle Vedove
+Awesome contributors:
+
+- Matteo Dalle Vedove
